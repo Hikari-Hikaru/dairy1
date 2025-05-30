@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>2025年6月2日 - ブログ開始！</title>
+  <title>2025年6月1日 - ブログ開始！</title>
   <link rel="stylesheet" href="../style.css"> <!-- 共通CSSの読み込み -->
 </head>
 <body>
@@ -10,7 +10,7 @@
     <h1>HIKARI・HIKARU 日々のブログ</h1>
   </header>
   <main>
-    <h2>2025年6月2日 - ブログ開始！</h2>
+    <h2>2025年6月1日 - ブログ開始！</h2>
     <p>
       今日からブログを始めます！<br>
       どんなことを書こうか、ちょっとドキドキしています。<br><br>

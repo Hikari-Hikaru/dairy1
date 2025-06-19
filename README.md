@@ -14,7 +14,8 @@
     <p>
       今日からブログを始めます！<br>
       どんなことを書こうか、ちょっとドキドキしています。<br><br>
-      今後ともよろしくお願いいたします！
+      今後ともよろしくお願いいたします！〈br〉
+       <li><a href="https://hikari-hikaru.github.io/dairy2/">（dairy2ページ）</a></li>
     </p>
   </main>
   <footer>
